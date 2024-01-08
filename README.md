@@ -65,7 +65,7 @@
 ## Machine Learning Model:
   - LightGBM
 
-## Results
+# Results
 
 - Achieved accurate rent predictions on the test dataset.
 - Model performance evaluated using industry-standard metrics.

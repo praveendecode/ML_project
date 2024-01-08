@@ -34,7 +34,7 @@
 
    ## Exploratory Data Analysis 
 
-   - Effectively Show insights in Tableau dashboard 
+   - Effectively Shown insights in Tableau dashboard 
 
    ## Machine Learning Model:
    -  Model selection and hyperparameter tuning using PyCaret.

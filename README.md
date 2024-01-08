@@ -12,14 +12,14 @@
 # Main Features
 
    ## Data Preparation:
-  - Imputation of missing values.
-    - Feature engineering and addition of new features.
-    -  Data type conversion and encoding of categorical variables.
+   - Imputation of missing values.
+   - Feature engineering and addition of new features.
+   -  Data type conversion and encoding of categorical variables.
 
-    ## Machine Learning Model:
-      -  Model selection and hyperparameter tuning using PyCaret.
-      - Evaluation of model interpretability and feature importance.
-      - Finalization and saving of the trained model.
+   ## Machine Learning Model:
+   -  Model selection and hyperparameter tuning using PyCaret.
+   - Evaluation of model interpretability and feature importance.
+   - Finalization and saving of the trained model.
 
    ##  Prediction:
   - Usage of the trained model to predict rental prices on new data.

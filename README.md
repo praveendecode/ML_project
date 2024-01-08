@@ -32,6 +32,10 @@
    - Feature engineering and addition of new features.
    -  Data type conversion and encoding of categorical variables.
 
+   ## Exploratory Data Analysis 
+
+   - Effectively Show insights in Tableau dashboard 
+
    ## Machine Learning Model:
    -  Model selection and hyperparameter tuning using PyCaret.
    - Evaluation of model interpretability and feature importance.
